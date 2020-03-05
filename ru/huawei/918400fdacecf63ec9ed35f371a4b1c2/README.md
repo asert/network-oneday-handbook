@@ -10,9 +10,11 @@
 ## Набор базовых команд:
 * < s1 > **admin save** - команда для сохранения конфигурации
 * < s1 > **display current-configuration** - просмотр текущей настройки оборудования
+* [ s1 ] **display this** - просмотр конфигурации с текущего уровня
 * < s1 > **display interface description** - просмотр статуса портов и их дескрипшинов
 * < s1 > **display interface brief** - статуст портов, загрузка и ошибки
 * < s1 > **display interface GigabitEthernet 0/0/1** - полная информация о порте
 * < s1 > **display transceiver interface GigabitEthernet 0/0/1** - просмотр оптический уровней и типа интерфейса 
 * < s1 > **display vlan 3000** - просмотр к каким портам прибил влан (3000 - номер влана)
 * < s1 > **display mac-address dynamic vlan 3000** - посмотреть таблицу mac адресов по номеру влана (3000 - номер влана)
+
