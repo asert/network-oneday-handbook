@@ -8,3 +8,6 @@
     * [Прописание vlan на оборудовании](huawei/918400fdacecf63ec9ed35f371a4b1c2/bff8e82b650ab7ab95ad7b8139c87010.md)
     * [Ограничение скорости по VLAN](huawei/918400fdacecf63ec9ed35f371a4b1c2/76201d12d040cbbb5742c02213cbe63f.md)
     * [Зеркалирование трафика (Port Mirroring)](huawei/918400fdacecf63ec9ed35f371a4b1c2/baebb2898a470fd8828eefeab493255b.md)
+* ZTE
+  * [Ethernet Switches \(ZXR10 2928E\)](zte/3696dfb2cddbeab45269e1b49a10209a/README.md)
+    * [Прописание vlan на оборудовании](zte/3696dfb2cddbeab45269e1b49a10209a/bff8e82b650ab7ab95ad7b8139c87010.md)
